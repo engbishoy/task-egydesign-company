@@ -1,0 +1,7 @@
+{
+    "Core": true,
+    "Company": true,
+    "Employee": true,
+    "User": true,
+    "Permission": true
+}

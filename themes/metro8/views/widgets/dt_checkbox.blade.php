@@ -1,0 +1,1 @@
+<div class='form-check form-check-sm form-check-custom form-check-solid'><input class='form-check-input dt-checkbox' type='checkbox' value={{$id}}></div>

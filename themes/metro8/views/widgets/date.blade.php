@@ -1,0 +1,1 @@
+{{ \Carbon\Carbon::parse($data)->format($format) }}
